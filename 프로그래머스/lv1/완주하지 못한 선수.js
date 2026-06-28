@@ -1,3 +1,4 @@
+/** @category 해시, Map */
 function solution(participant, completion) {
   const participantMap = new Map();
   

@@ -1,3 +1,4 @@
+/** @category 큐 */
 function solution(priorities, location) {
   const uniquePriorities = priorities.map((value, index) => ({ p: value, i: index }));
   const processedList = [];

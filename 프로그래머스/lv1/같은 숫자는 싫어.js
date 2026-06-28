@@ -1,3 +1,4 @@
+/** @category 스택 */
 function solution(arr)
 {
     const filteredArray = [];

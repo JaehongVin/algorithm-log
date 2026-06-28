@@ -1,3 +1,4 @@
+/** @category 배열, 2차원 배열 */
 function solution(arr1, arr2) {
   const newArray = [];
   

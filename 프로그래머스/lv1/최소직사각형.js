@@ -1,3 +1,4 @@
+/** @category 완전탐색, 그리디 */
 function solution(sizes) {
     let maxWidth = 0;
     let maxHeight = 0;

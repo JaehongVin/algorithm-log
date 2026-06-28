@@ -1,3 +1,4 @@
+/** @category 큐 */
 function solution(bridge_length, weight, truck_weights) {
   const trucks = truck_weights.map((weight) => ({ w: weight, process: 0 }));
   const bridgeQue = [];

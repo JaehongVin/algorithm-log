@@ -1,3 +1,4 @@
+/** @category 스택 */
 function solution(s){
   const stack = [];
   const open = '(';

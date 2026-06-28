@@ -1,3 +1,4 @@
+/** @category 완전탐색, Set */
 function solution(numbers) {
   const set = new Set();
   

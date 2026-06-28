@@ -1,3 +1,4 @@
+/** @category 스택, 모노토닉 스택 */
 function solution(prices) {
   const result = [];
   const stack = [];    

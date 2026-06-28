@@ -1,3 +1,4 @@
+/** @category 큐 */
 function solution(progresses, speeds) {
   let copyProgresses = [...progresses];
   let copySpeeds = [...speeds];
